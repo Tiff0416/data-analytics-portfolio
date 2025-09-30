@@ -27,10 +27,3 @@ The analysis was conducted as part of coursework at UW–Madison (AAE 718).
 Install with:  
 ```bash
 pip install -r requirements.txt
-
-## How to Run
-
-python 11all.py
-This will train baseline and tuned models, apply SMOTE, and generate evaluation metrics.
-
-## Author: Tingyun (Caroline) Kuo
