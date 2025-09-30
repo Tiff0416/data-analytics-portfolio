@@ -16,7 +16,7 @@ Explore quantitative trading strategies as part of the TMBA program, focusing on
 **Preliminary Results:**  
 - Backtesting simulations on Taiwan index futures (TXF) indicated a **hypothetical return of +138%** over the test period.  
 - Performance was achieved under strict shorting rules, ATR-based stop losses, and capital allocation constraints.  
-- ⚠️ Note: These results are based on **historical simulations** and do not represent live trading performance.  
+- Note: These results are based on **historical simulations** and do not represent live trading performance.  
 
 **Status:**  
 This project is a **work in progress**. While not a finished trading system, it reflects my ongoing learning in applying Python to financial data and developing systematic trading ideas.  
