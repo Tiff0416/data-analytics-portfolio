@@ -40,6 +40,24 @@ Each project folder contains a **report (PDF)** and a short **README** summarizi
 
 ---
 
+### [Impact of Overworking on Productivity and Health](projects/overworking-productivity)
+- Built interactive dashboard with OECD/BLS data across 30+ countries.  
+- Found that working **55+ hours/week raises stroke risk by 33%** and reduces productivity per hour.  
+- Delivered findings via reports and dashboards for both academic and practitioner audiences.  
+- 📄 [Report PDF](projects/overworking-productivity/Impact_of_Overworking.pdf)
+
+---
+
+### [Credit Default Prediction](projects/credit-default-prediction)
+- Predicted credit card default using UCI dataset (**30,000 clients, 24 features**).  
+- Implemented Logistic Regression, Decision Tree, and Neural Network models.  
+- Applied **SMOTE + GridSearchCV** to address class imbalance and improve model performance.  
+- Achieved **82% accuracy**, default-class precision improved **0.37 → 0.65**, recall up to **~40%**.  
+- 📄 [Report PDF](projects/credit-default-prediction/Credit_Default_Prediction.pdf)  
+- 💻 [Python Code](projects/credit-default-prediction/11all.py)
+
+---
+
 ## 📬 Contact
 - **Email:** tkuo23@wisc.edu  
 - **LinkedIn:** [linkedin.com/in/carolinekuo](https://linkedin.com/in/carolinekuo)  
