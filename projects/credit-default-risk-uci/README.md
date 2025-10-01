@@ -17,7 +17,7 @@ The analysis was conducted as part of coursework at UW–Madison (AAE 718).
 - Demonstrated application of **credit risk modeling techniques** beyond accuracy, using precision/recall, log loss, and confusion matrices.  
 
 ## Files
-- [`11.pdf`](./11.pdf) – Full report with methods, figures, and analysis discussion.  
+- [`credit_default_project.pdf`](./credit_default_project.pdf) – Full report with methods, figures, and analysis discussion.  
 - [`11all.py`](./11all.py) – Python code implementing models and evaluations.  
 
 ## Requirements
