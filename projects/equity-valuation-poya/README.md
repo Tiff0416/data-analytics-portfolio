@@ -1,21 +1,39 @@
-# Equity Valuation: Poya (Team Project)
+# 📊 Equity Valuation: Poya (Team Project)
 
-**Goal:**  
-Assess the fair value of Poya (寶雅, Taiwan’s beauty & pharmacy retailer) using multiple financial valuation methods.  
+**Project Title:**  
+Equity Valuation — Poya (TWSE: 5904)
 
-**Methods & Tools:**  
-- Valuation models: P/E, P/S, Dividend Discount Model (DDM), CAPM  
-- Data sources: TEJ database, company financial statements  
-- Tools: Stata, Excel  
+**Objective:**  
+Estimate the fair value of Poya, a leading Taiwanese beauty and lifestyle retailer, using multiple valuation models to determine whether its stock is fairly priced, overvalued, or undervalued.
 
-**Key Insights:**  
-- Market price showed **overvaluation signals** compared to intrinsic value.  
-- **Scenario analysis (offline-only vs. online+offline)** highlighted how assumptions shift valuations.  
-- Demonstrated the importance of combining multiples with DCF-based models.  
+---
 
-**My Contribution:**  
-- Built regression-based valuation estimates.  
-- Analyzed offline vs. online sales scenarios.  
-- Drafted report sections on mispricing and risk implications.  
+## 🧮 Methodology & Tools
 
-📄 Full report: [Equity_Valuation_Poya.pdf](Equity_Valuation_Poya.pdf)  
+- **Valuation Models:** P/E, P/S, Dividend Discount Model (DDM), CAPM  
+- **Data Sources:** Taiwan Economic Journal (TEJ) database, company financial statements, and public filings  
+- **Analytical Tools:** Stata, Excel  
+
+---
+
+## 💡 Key Insights
+
+- Multi-model triangulation suggested **~59% overvaluation** relative to market price.  
+- Scenario analysis (offline-only vs. hybrid online/offline) highlighted valuation sensitivity to growth and margin assumptions.  
+- Reinforced the importance of combining **relative (multiples)** and **intrinsic (DDM)** valuation frameworks for fair pricing analysis.  
+
+---
+
+## 🧑‍🤝‍🧑 Team & Context
+
+- **Team Size:** 3 members  
+- **Project Period:** Spring 2024  
+- **Institution:** University of Wisconsin–Madison  
+
+---
+
+## 📄 Reports
+
+- Full report: [Equity_Valuation_Poya.pdf](Equity_Valuation_Poya.pdf)  
+- English translation: [Report.pdf](Report.pdf)  
+- Condensed professional version: [Report(EN).pdf](Report(EN).pdf)
