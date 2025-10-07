@@ -26,9 +26,9 @@ Estimate the fair value of Poya, a leading Taiwanese beauty and lifestyle retail
 
 ## 🧑‍🤝‍🧑 Team & Context
 
-- **Team Size:** 3 members  
-- **Project Period:** Spring 2024  
-- **Institution:** University of Wisconsin–Madison  
+- **Team Size:** 10 members  
+- **Project Period:** Spring 2023  
+- **Institution:** National Central University
 
 ---
 
