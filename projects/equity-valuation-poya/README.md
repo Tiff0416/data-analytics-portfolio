@@ -35,5 +35,5 @@ Estimate the fair value of Poya, a leading Taiwanese beauty and lifestyle retail
 ## 📄 Reports
 
 - Full report: [Equity_Valuation_Poya.pdf](Equity_Valuation_Poya.pdf)  
-- English translation: [Report.pdf](Report.pdf)  
-- Condensed professional version: [Report(EN).pdf](Report(EN).pdf)
+- Original version: [Report.pdf](Report.pdf)  
+- English translation: [Report(EN).pdf](Report(EN).pdf)
